@@ -1,0 +1,6 @@
+p=int(input("Enter the principle : "))
+r=float(input("Enter the rate : "))
+t=int(input("Enter the time in yearsd: "))
+n=int(input("Enter the no. of times the interest is compounded per year"))
+a=p*((1+(r/n))**(n*t))
+print("The amount : ",a)
