@@ -1,0 +1,6 @@
+def captal_first_and_fifth(str):
+    newstr= str[0].upper()+str[1:4]
+    if(len(str)>5):
+        newstr+= str[4].upper()+str[5:len(str)]
+    return newstr
+print(captal_first_and_fifth("Satyarth"))

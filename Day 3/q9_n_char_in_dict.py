@@ -5,4 +5,4 @@ for i in a:
     if(i.isalpha()==True ):
         le+=1
 dict['chars']=le
-print("Number of character in the string is ",dict['chars'])
+print(f"Number of character in the string {dict['chars']}")
