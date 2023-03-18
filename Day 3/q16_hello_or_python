@@ -1,0 +1,10 @@
+def fun(a):
+    print(a)
+    for i in range(0,len(a)-1):
+        if a[i]==5 and a[i+1]==5:
+            return "hello"
+    return "python"
+n=[1, 5,5]
+print(fun(n))
+
+
