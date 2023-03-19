@@ -7,4 +7,3 @@ def fun(a):
 n=[1, 5,5]
 print(fun(n))
 
-
