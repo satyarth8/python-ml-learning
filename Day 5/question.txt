@@ -1,0 +1,16 @@
+Practice Question
+1. WAP to print character persetn at odd and even index of a given string to two different string
+2. wap to remove the first n characters from a string
+3. wap to return the count of substring from a given string
+4. wap to create a string made up fo the 1st , middle and last charcter of a given string
+5. wap to arrange a given string in such a way that all lowercase character come first followed by uppercase characters
+6. Wap to count  occurances of all alphabets within a given string
+7. Wap to count all alphabet , numeric value & special symbol from a given string
+8. Wap to create a string from 2 given string in such a way that the first alphabet 
+    of 1st string is followed by the last alphabet of string 2 and so on 
+    ex  string 1 - "hello"
+        string 2 - "world"
+        new str ="hdellrloow"
+9. Wap to check whether the 1st and last item of a given list is same or not
+10. Wap to create a new string from 2 given string in such a way that the new string should contain 
+    even alphabets from string1 and odd from  string 2
